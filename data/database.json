@@ -1,0 +1,60 @@
+{
+  "tale": [
+    {
+      "title": "A New Hope",
+      "story": "Luke Skywalker was a Tatooine farmboy who rose from humble beginnings to become one of the greatest Jedi the galaxy has ever known. Along with his friends Princess Leia and Han Solo, Luke battled the evil Empire, discovered the truth of his parentage, and ended the tyranny of the Sith. A generation later, the location of the famed Jedi master was one of the galaxy’s greatest mysteries. Haunted by Ben Solo’s fall to evil and convinced the Jedi had to end, Luke sought exile on a distant world, ignoring the galaxy’s pleas for help. But his solitude would be interrupted – and Luke Skywalker had one final, momentous role to play in the struggle between good and evil.",
+      "name": " LUKE SKYWALKER",
+      "date": "0019-01-01",
+      "city": "Tatooin",
+      "id": 2
+    },
+    {
+      "title": "Hello There",
+      "story": "A legendary Jedi Master, Obi-Wan Kenobi was a noble man and gifted in the ways of the Force. He trained Anakin Skywalker, served as a general in the Republic Army during the Clone Wars, and guided Luke Skywalker as a mentor.",
+      "name": " OBI-WAN KENOBI",
+      "date": "0057-01-01",
+      "city": "Stewjon",
+      "id": 3
+    },
+    {
+      "title": "Rebel's Princes",
+      "story": "Princess Leia Organa was one of the greatest leaders of the Rebel Alliance, fearless on the battlefield and dedicated to ending the Empire’s tyranny. Daughter of Padmé Amidala and Anakin Skywalker, sister of Luke Skywalker, and with a soft spot for scoundrels, Leia ranked among the galaxy’s great heroes. But life under the New Republic proved difficult for her. Sidelined by a new generation of political leaders, she struck out on her own to oppose the First Order as founder of the Resistance. These setbacks in her political career were accompanied by more personal losses, which she endured with her seemingly inexhaustible will.",
+      "name": " LEIA ORGANA",
+      "date": "0019-01-01",
+      "city": "polis massa",
+      "id": 4
+    },
+    {
+      "title": "Begin of Saga",
+      "story": "Discovered as a slave on Tatooine by Qui-Gon Jinn and Obi-Wan Kenobi, Anakin Skywalker had the potential to become one of the most powerful Jedi ever. Some even believed he was the prophesied Chosen One who would bring balance to the Force. Always pushing the limits of his Jedi training, seeking to excel and live up to his reputation, Skywalker's passion often brought him into conflict with his mentor, Jedi Master Obi-Wan Kenobi. A hero of the Clone Wars, Anakin was caring and compassionate, but suffered from a deep fear of loss that would prove to be his downfall.",
+      "name": " ANAKIN SKYWALKER",
+      "date": "0049-01-01",
+      "city": "Tatooin",
+      "id": 5
+    },
+    {
+      "title": "Early life of Anakin",
+      "story": "Along with his mother Shmi, Anakin Skywalker was a slave on Tatooine, owned by junk dealer Watto. When Jedi Knight Qui-Gon Jinn, a Gungan named Jar Jar Binks, and Naboo handmaiden Padmé came to Watto’s shop looking for parts to repair their starship, Anakin befriended them. Unable to afford the parts they needed, Anakin devised a plan to help his new friends: he would enter the Boonta Eve Classic Podrace and give the winnings to Qui-Gon. While risky, Qui-Gon agreed, betting with Watto and Loading higher stakes -- Anakin’s freedom. Qui-Gon realized that Anakin was Force-sensitive, and upon his victory in the race, informed Anakin he was free and could train to become a Jedi. The boy was overjoyed, but afraid to leave his mother behind; indeed, Yoda sensed this when Anakin was brought before the Jedi Council, and it was this fear that led to Anakin being denied entry into the Order. Qui-Gon was shocked at the decision, but told Anakin to watch him and stay close in lieu of actual training. Eventually, Qui-Gon, his apprentice Obi-Wan Kenobi, Padmé (now revealed to be Queen Amidala), Jar Jar, and Anakin went to Naboo, hoping to stop an invasion by the Trade Federation. There, Anakin unwittingly found himself in a Naboo starfighter, dogfighting with battle droids and destroying the Droid Control Ship. Qui-Gon fell in battle to the Sith Lord Darth Maul, and with his dying wish, asked Obi-Wan to train the boy. The Jedi Council agreed, and Anakin was accepted into the Order as Obi-Wan’s apprentice. He also began a friendship with Supreme Chancellor Palpatine, who was quite impressed by the boy’s Force abilities.",
+      "name": "Anakin Skywalker",
+      "date": "",
+      "city": "Tatooin and Naboo",
+      "id": 6
+    },
+    {
+      "title": " Allied with The Force",
+      "story": "Yoda was a legendary Jedi Master and stronger than most in his connection with the Force. Small in size but wise and powerful, he trained Jedi for over 800 years, playing integral roles in the Clone Wars, the instruction of Luke Skywalker, and unlocking the path to immortality.",
+      "name": " YODA",
+      "date": "0896-01-01",
+      "city": "unknown",
+      "id": 7
+    },
+    {
+      "title": "Old Padawan",
+      "story": "Former Jedi Knight Ahsoka Tano once served as the Padawan learner to the Jedi Anakin Skywalker during the Clone Wars. A respected leader and warrior attuned to the light side of the Force, Ahsoka grew into a formidable fighter before the Empire’s reign changed the course of galactic history. Although she walked away from the Jedi Order, she continued to stand up for those fighting for peace and justice in the galaxy long after the fall of the Republic.",
+      "name": "AHSOKA TANO",
+      "date": "0036-01-01",
+      "city": "Shili",
+      "id": 8
+    }
+  ]
+}

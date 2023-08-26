@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+
+/* base styles */
+body {
+    background-color: black;
+}
+* {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    color: azure;
+}
+a {
+    text-decoration: none;
+    color: azure;
+}
+a:hover {
+    color: #ffe81f;
+}
+button {
+    background-color: #ffe81f;
+    color: black;
+    padding: 10px 40px;
+    border-radius: 50px;
+    margin: 20px;
+    border: 1px solid #484747;
+    box-shadow: 1px 3px 5px rgba(255, 255, 255, 0.1);
+}
+button:hover {
+    background-color: transparent;
+    color: azure;
+    box-shadow: 1px 3px 60px rgba(255, 255, 255, 0.1);
+    border: 1px solid azure;
+}
+Link {
+    color: black;
+}
+.navbar {
+    max-width: 600px;
+    margin: 0 auto;
+    border-bottom: 1px solid azure;
+}
+.navbar h1 {
+    color: #ffe81f;
+}
+.navbar .links {
+    margin-left: auto;
+}
+.links a {
+    margin-left: 16px;
+    padding: 6px;
+}
+.navLogo * {
+    user-select: none;
+}
+.navLogo h1 {
+    font-size: 25px;
+}
+.navLogo img {
+    width: 35px;
+    height: 35px;
+    margin-top: -6px;
+    margin-right: 10px;
+}
+.content {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+/* preview */
+.Tale-preview {
+    width: 49%;
+    padding: 10px 16px;
+    margin: 20px 0;
+    border-bottom: 1px solid #484747;
+    border-radius: 30px;
+    box-shadow: 1px 3px 5px rgba(255, 255, 255, 0.1);
+}
+.Tale-preview:hover {
+    box-shadow: 1px 3px 60px rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid azure;
+}
+.Tale-preview h2 {
+    font-size: 20px;
+    color: #ffe81f;
+    margin-bottom: 8px;
+}
+
+/* tale content page */
+.tale-content h1 {
+    font-size: 30px;
+    color: #ffe81f;
+    margin-bottom: 10px;
+}
+.tale-content div {
+    margin: 20px 0;
+}
+.tale-content p {
+    text-align: justify;
+}
+.tale-content button {
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 0;
+    width: 120px;
+    padding: 10px;
+}
+/* create page */
+.create {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+.create label {
+    text-align: left;
+    display: block;
+}
+.create h2 {
+    font-size: 20px;
+    color: #ffe81f;
+    margin-bottom: 30px;
+}
+.create input,
+.create textarea {
+    width: 100%;
+    padding: 6px 12px;
+    margin: 10px 0;
+    background-color: transparent;
+    border: 1px solid azure;
+    box-sizing: border-box;
+    display: block;
+    resize: none;
+}
+textarea {
+    resize: vertical;
+}
+.create input,
+textarea {
+    border-radius: 30px;
+    box-shadow: 1px 3px 5px rgba(255, 255, 255, 0.1);
+}
+.create textarea:hover,
+.create input:hover {
+    box-shadow: 1px 3px 60px rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid azure;
+}
+.create textarea:focus,
+.create input:focus {
+    box-shadow: 1px 3px 60px rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid azure;
+}
+/* Footer */
+footer {
+    font-size: 12px;
+    max-width: 600px;
+    margin: 0 auto;
+    border-top: 1px solid azure;
+}
+footer a {
+    color: #ffe81f;
+}
+footer a {
+    color: #ffe81f;
+}
